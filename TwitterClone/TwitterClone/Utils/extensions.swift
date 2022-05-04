@@ -2,10 +2,8 @@
 //  extensions.swift
 //  TwitterClone
 //
-//  Created by Louis Melone on 5/1/22.
+//  Created by Louis Melone on 5/2/22.
 //
-
-import Foundation
 
 import UIKit
 
